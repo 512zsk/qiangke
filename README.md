@@ -1,5 +1,9 @@
 # 抢课脚本使用说明
 
+**郑州西亚斯学院** — 一个简易实用的脚本。
+
+> `demo.mp4` 是获取 Cookie 和 URL 的演示操作视频。
+
 ## 一、环境准备
 
 1. 安装 Python 3.7+（推荐 [python.org](https://www.python.org/downloads/) 下载）
